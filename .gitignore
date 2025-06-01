@@ -1,0 +1,5 @@
+/.venv
+/pruebas_codigo
+/temporal
+/__pycache__
+*.env
